@@ -6,7 +6,9 @@
 This notebook, available as an interactive HTML file, invites readers on a fascinating journey to uncover the links between legendary creatures and the four houses of Hogwarts.
 
 ## Viewing the HTML Notebook
-Check out the interactive Hogwarts Bestiary [here](https://phelpsbp.github.io/The-Hogwarts-Bestiary/).
+* Check out the interactive Hogwarts Bestiary [here](https://phelpsbp.github.io/The-Hogwarts-Bestiary/).
+* The Creatures Dataset can be viewed and downloaded [here](https://github.com/phelpsbp/The-Hogwarts-Bestiary/blob/main/Datasets/creatures_master_dataset.csv)
+* The Hogwarts Houses Dataset can be viewed and downloaded [here](https://github.com/phelpsbp/The-Hogwarts-Bestiary/blob/main/Datasets/houses_master_dataset.csv)
 
 
 ## Features
