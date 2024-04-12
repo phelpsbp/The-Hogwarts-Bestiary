@@ -48,7 +48,3 @@ Questions, comments, or discussions are always welcome. Feel free to reach out:
 - **GitHub**: [phelpsbp](https://github.com/phelpsbp)
 
 ---
-
----
-
-This section of the README will help users understand not only the analytical foundations of the project but also how those analyses are represented visually. If there's more to refine or add, I’m ready to assist!
