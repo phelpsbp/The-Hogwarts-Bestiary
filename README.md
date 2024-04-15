@@ -1,5 +1,5 @@
 # Welcome to The Hogwarts Bestiary
-Embark on a data science journey into the Harry Potter universe with "The Hogwarts Bestiary." This interactive display showcases magical creatures sorted into the four houses of Hogwarts—Slytherin, Gryffindor, Ravenclaw, and Hufflepuff—through detailed data analysis and narrative development. This repository houses not just the final Bestiary but also the comprehensive analysis behind the classification of each creature, bringing together lore, data, and storytelling.
+"The Hogwarts Bestiary" is an interactive display showcasing magical creatures sorted into the four houses of Hogwarts—Slytherin, Gryffindor, Ravenclaw, and Hufflepuff—through detailed data analysis and narrative development. This repository houses not just the final Bestiary but also the comprehensive analysis behind the classification of each creature, bringing together lore, data, and storytelling.
 
 ## Repository Contents
 
