@@ -21,7 +21,7 @@ This project utilizes a custom-developed sorting algorithm to classify magical c
 - Visualizations that highlight the defining characteristics of each house.
 
 ## Acknowledgments & References
-This project was inspired by my children's new-found love of Harry Potter. Being a fan myself, their curiosity and excitement reignighted my own, which is how the idea of this project came to be.
+This project was inspired by my children's new-found love of Harry Potter. Being a fan myself, their curiosity and excitement reignited my own, which is how the idea of this project came to be.
 
 The [dataset](https://github.com/phelpsbp/The-Hogwarts-Bestiary/blob/main/updated_new_creatures_dataset.xlsx) was created entirely myself through webscraping and extensive research. The Harry Potter fan community was a huge source in gathering the not-so-easy to find information on the creatures for the dataset. Particularly:
 - [The Monster Blog of Monsters](https://themonsterblogofmonsters.tumblr.com/)
